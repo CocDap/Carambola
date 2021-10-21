@@ -1,4 +1,4 @@
-# Octopus Appchain Template
+# Octopus Appchain Carambola Bridge
 
 # TODO
 ```
